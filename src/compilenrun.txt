@@ -1,0 +1,1 @@
+g++ -o hmm.exe hmm.cpp -I"C:/TDM-GCC-64/x86_64-w64-mingw32/include/SDL3" -L"C:/TDM-GCC-64/x86_64-w64-mingw32/lib/libSDL3.dll.a" -lSDL3
